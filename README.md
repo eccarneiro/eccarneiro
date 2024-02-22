@@ -1,10 +1,46 @@
-<h1 align="center">Hi 👋, I'm Emanuel Corrêa Carneiro</h1>
-<h3 align="center">Student of Back-end programming, and studying Software Engineering at Unievangelica College.</h3>
+# Sobre mim
+ ### Olá! 👋 Meu nome é *Emanuel Corrêa Carneiro*, e estou entusiasmado por compartilhar um pouco sobre quem eu sou no mundo da   programação 😁
+# Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelcorreacarneiro/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emanuelcorreacarneiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuelcorreacarneiro" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuelcorreaclimb/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eccarneiro)
+
+
+
+
+
+ # Linguagens de Programação
+#### Minhas principais linguagens de programação incluem:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Essencial para o desenvolvimento front-end, trazendo interatividade e dinamismo às minhas criações.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+#### Uma linguagem versátil e poderosa que eu amo utilizar para desenvolvimento web, automação e ciência de dados.
+
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Fundamentais para a construção de páginas web incríveis e visualmente atraentes.
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+#### Uma linguagem clássica que aprendi na faculdade de Engenharia de Software continua a desafiar minha capacidade de pensar de maneira eficiente e estruturada.
+## Interesses
+### Tenho paixão por diversas áreas dentro da programação. Alguns dos meus interesses incluem:
+## Ciência de Dados
+### Adoro explorar dados, encontrar padrões e insights que impulsionam a tomada de decisões.
+## Desenvolvimento Front-end
+### Criar interfaces de usuário intuitivas e atraentes é algo que me fascina. Adoro a combinação de design e funcionalidade.
+## Desenvolvimento Back-End
+### Trabalhar nos bastidores para garantir que tudo funcione perfeitamente é uma parte crucial do meu processo de criação.
+
+# Geral
+## Em resumo, sou um entusiasta da programação que não consegue resistir a desafios criativos. Seja explorando dados, criando interfaces incríveis ou garantindo que tudo funcione perfeitamente nos bastidores, estou sempre pronto para aprender e evoluir. No fim das contas, eu gosto de tudo! 😄
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eccarneiro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Ainda não tenho o costume de utilizar e subir meus codigos pro GitHub, mas com a conclusão desse curso a movimentação será maior com certeza !
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eccarneiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
