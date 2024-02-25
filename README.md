@@ -1,18 +1,16 @@
 # Sobre mim
- ### Olá! 👋 Meu nome é *Emanuel Corrêa Carneiro*, e estou entusiasmado por compartilhar um pouco sobre quem eu sou no mundo da   programação 😁
+
+ ### Olá! 👋 Meu nome é *Emanuel Corrêa Carneiro* e estou entusiasmado por compartilhar um pouco sobre quem eu sou no mundo da programação 😁
 # Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelcorreacarneiro/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuelcorreaclimb/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eccarneiro)
 
-
-
-
-
  # Linguagens de Programação
+ 
 #### Minhas principais linguagens de programação incluem:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Essencial para o desenvolvimento front-end, trazendo interatividade e dinamismo às minhas criações.
@@ -41,6 +39,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eccarneiro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Ainda não tenho o costume de utilizar e subir meus codigos pro GitHub, mas com a conclusão desse curso a movimentação será maior com certeza !
+## Ainda não tenho o costume de utilizar e subir meus codigos pro GitHub, mas com a conclusão desse curso a movimentação será maior com certeza!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eccarneiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
