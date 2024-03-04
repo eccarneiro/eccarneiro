@@ -37,8 +37,6 @@
 # Geral
 ## Em resumo, sou um entusiasta da programação que não consegue resistir a desafios criativos. Seja explorando dados, criando interfaces incríveis ou garantindo que tudo funcione perfeitamente nos bastidores, estou sempre pronto para aprender e evoluir. No fim das contas, eu gosto de tudo! 😄
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eccarneiro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Ainda não tenho o costume de utilizar e subir meus codigos pro GitHub, mas com a conclusão desse curso a movimentação será maior com certeza!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eccarneiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
