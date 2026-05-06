@@ -11,6 +11,6 @@ Experiência no desenvolvimento de aplicações web e mobile utilizando **React,
 - **Complementar:** C# (projetos pessoais/freelancer), Git/GitHub, Postman, Swagger  
 
 ### Contato
-- **Email:** emmanuelcorreacarneiro@gmail.com  
+- **Email:** emanuelcorreacarneiro@gmail.com  
 - **LinkedIn:** [linkedin.com/in/emanuelcorreacarneiro](#)  
 - **GitHub:** [github.com/emanuelcc](#)  
