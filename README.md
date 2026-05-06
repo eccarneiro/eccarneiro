@@ -13,4 +13,4 @@ Experiência no desenvolvimento de aplicações web e mobile utilizando **React,
 ### Contato
 - **Email:** emanuelcorreacarneiro@gmail.com  
 - **LinkedIn:** [linkedin.com/in/emanuelcorreacarneiro](#)  
-- **GitHub:** [github.com/emanuelcc](#)  
+- **GitHub:** [https://github.com/eccarneiro](#)  
